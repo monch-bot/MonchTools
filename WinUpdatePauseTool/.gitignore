@@ -1,0 +1,11 @@
+# 忽略所有文件（默认黑名单）
+*
+
+# 不忽略 .gitignore 自身（必须保留，否则规则不生效）
+!.gitignore
+
+# 放行目标 exe 文件
+!WinUpdatePauseTool.exe
+
+# 若有其他需要保留的 exe 或资源文件，也可在此添加
+# 例如：!app.ico
