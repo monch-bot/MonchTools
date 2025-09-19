@@ -7,12 +7,12 @@
 
 ## 📁 工具列表
 
-### 🔄 Windows 更新暂停助手
+### 🔄 Windows 更新暂停助手（Windows Update Pause Assistant）
 一款轻量级工具，支持一键将 Windows 更新暂停 10 年、20 年或自定义年限，也可快速恢复更新。  
 采用 PowerShell + WPF 编写，可打包为独立 EXE 运行，带有美观的可视化界面，支持托盘常驻。
 
 → [查看详细使用说明](https://github.com/monch-bot/MonchTools/blob/main/WinUpdatePauseTool/WinUpdatePauseTool.md)
-
+兼容性说明：目前仅在 Windows 11 环境下完成测试，其他 Windows 版本（如 Win10）未验证，建议非 Win11 用户谨慎使用。
 
 ## 📜 使用协议
 
