@@ -16,6 +16,14 @@
 - 兼容性说明：目前仅在 Windows 11 环境下完成测试，其他 Windows 版本（如 Win10）未验证，建议非 Win11 用户谨慎使用。
 
 
+### 🚀 批量启动软件工具（Modern Software Launcher）
+- 一款高效、易用的批量软件管理与启动工具，帮助用户快速配置并一键启动常用软件。
+采用 Python + Tkinter 编写，支持软件分组管理、智能延迟启动、运行状态检测和配置导入导出等功能。
+
+→ [查看详细使用说明](https://github.com/monch-bot/MonchTools/blob/main/Batch_start_software/README.md)
+
+- 兼容性说明：主要针对 Windows 系统优化，同时提供对 macOS 和 Linux 系统的基础支持。
+
 ## 📜 使用协议
 
 本项目未采用标准开源许可证，作者特此声明：
